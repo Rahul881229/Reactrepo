@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
-     <h1>welcome to the currency changer app</h1>
+     <h1 className="text-3xl text-black-500 bg-orange-500 font-bold underline">
+        welcome to the currency changer app
+      </h1>
     </>
   )
 }
