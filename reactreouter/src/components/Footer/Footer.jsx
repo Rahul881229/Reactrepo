@@ -34,7 +34,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        href="https://github.com/Rahul881229"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -93,7 +93,7 @@ export default function Footer() {
                             <span className="sr-only">Facebook page</span>
                         </Link>
                         <Link to="#" className="text-gray-500">
-                            <svg
+                            <svg title="facebook" 
                                 className="w-4 h-4"
                                 aria-hidden="true"
                                 xmlns="http://www.w3.org/2000/svg"
