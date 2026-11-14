@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Tailwind v4: same as darkMode: 'class' in old tailwind.config.js */
+@custom-variant dark (&:where(.dark, .dark *));
